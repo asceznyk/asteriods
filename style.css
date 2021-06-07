@@ -1,0 +1,14 @@
+body, html {
+	margin : 0px;
+}
+
+.wrapper {
+	max-width: 550px;
+	margin: 10px auto;
+}
+
+#mycanvas {
+	background:#000;
+}
+
+
