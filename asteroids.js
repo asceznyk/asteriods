@@ -1,3 +1,4 @@
+(function() { 
 const rock = new Image();
 rock.src = 'sprites/rock.png';
 
@@ -298,4 +299,4 @@ showGame = (time) => {
 	}
 	window.requestAnimationFrame(showGame);
 } 
-window.requestAnimationFrame(showGame);
+window.requestAnimationFrame(showGame)})();
